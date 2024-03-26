@@ -1,7 +1,7 @@
 # Tumblr_feed
 # Project 5 - *Tumblr_feed*
 
-Submitted by: **Xiaoran**
+Submitted by: **Xiaoran Liu**
 
 **tumbler_feed** is an app that fetch hot posts pics and its summarries from Tumblr
 
